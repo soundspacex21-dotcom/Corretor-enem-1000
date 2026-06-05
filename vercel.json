@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/api/corrigir", "destination": "/api/corrigir" }
+  ]
+}
